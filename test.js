@@ -1,4 +1,4 @@
 var a = 'test';
 var b = 'hello';
 var s = 'issue2-3';
-var cherrPick = 'cherry-pick';
+var cherrPick = 'cherry-pick test';
