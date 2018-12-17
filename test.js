@@ -13,3 +13,4 @@ var s = 'develop demo';
 var cherrPick = 'cherry-pick';
 
 var cherrPick1 = 'cherry-pick1';
+var cherrPick2 = 'cherry-pick2';
